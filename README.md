@@ -6,7 +6,7 @@ Code golfing contest: flip a number's digits!
 
 ### Goal
 
-Write a function or method that takes an integer between -999.999.999 and 999.999.999 (inclusive), and returns the integer whose decimal digits are flipped. Try making the source code as small as possible!
+Write a function or method that takes an integer between -999,999,999 and 999,999,999 (inclusive), and returns the integer whose decimal digits are flipped. Try making the source code as small as possible!
 
 Examples: `flip(5678) == 8765`, `flip(-541) == -145`, `flip(-100) == -1`.
 
