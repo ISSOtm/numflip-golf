@@ -1,6 +1,6 @@
 # numflip-golf
 
-Code gofling contest: flip a number's digits!
+Code golfing contest: flip a number's digits!
 
 ## Rules
 
