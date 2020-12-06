@@ -1,0 +1,1 @@
+let g n=let rec f n p=if(n/10)=0 then n+10*p else f(n/10)(10*p+n mod 10)in f n 0;;
